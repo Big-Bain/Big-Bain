@@ -1,3 +1,3 @@
-- Hello, I am Big-Bain
+- Hello, I am Big Bain
 - Attempting to learn how to code in c#, starting small with python, but only for a couple projects
 - 🍔💥
